@@ -1,0 +1,9 @@
+img{
+    height: 300px;
+    width: 300px;
+    box-shadow: 4px 4px 10px 0 rgb(19, 233, 233), -20px -20px 35px 0 rgb(238, 19, 84);
+}
+div{
+    display: flex;
+    justify-content: center;
+}
